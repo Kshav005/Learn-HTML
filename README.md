@@ -1,4 +1,4 @@
-# LearnHTML
+# Learn HTML
 Want to learn the basic of web development? Start with HTML! This repository contains all the files which will help you learn the HTML language. The CSS repository will be coming soon too. I have uploaded all the necessary files (images, etc) which I used in teaching HTML. 
 
 # Exercises
